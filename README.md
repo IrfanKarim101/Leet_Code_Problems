@@ -20,7 +20,7 @@ The purpose of this repository is to provide a collection of solutions to common
 - Java
 - C#
 - C
-- Python
+- Python3
 - Dart
 
 ## Problem Solutions
